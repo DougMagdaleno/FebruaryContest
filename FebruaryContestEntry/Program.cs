@@ -15,7 +15,6 @@ namespace FebruaryContestEntry
 				.Render();
 
 
-
 			Console.WriteLine(block);
 			Console.ResetColor();
 			Console.WriteLine();
